@@ -3,7 +3,7 @@
 Develop a web-based platform to facilitate buying and selling second-hand cars.  
 
 ### 🚀 **Live Demo**  
-🔗 **Deployed Frontend**: [View Here](https://anthill-networks-carbuying.netlify.app/)  
+🔗 **Demo Please Visit**: [View Here](https://anthill-networks-carbuying.netlify.app/)  
 
 ### 🛠️ **Technology Stack**  
 - **Frontend**: React with Redux and TypeScript 
