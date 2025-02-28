@@ -23,18 +23,14 @@ Develop a web-based platform to facilitate buying and selling second-hand cars.
 ### 📂 **Setup & Installation**
 1️⃣ **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/rithigavijayendran/Anthill-Networks-CarBuying.git
    ```
-2️⃣ **Switch to the frontend branch**  
+2️⃣ **Install dependencies**  
    ```sh
-   git checkout task-frontend
-   ```
-3️⃣ **Install dependencies**  
-   ```sh
-   cd frontend-folder-name
+   cd Anthill-Networks-CarBuying
    npm install
    ```
-4️⃣ **Run the frontend**  
+3️⃣ **Run the frontend**  
    ```sh
-   npm start
+   npm run dev
    ```
